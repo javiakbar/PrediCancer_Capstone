@@ -18,8 +18,11 @@ https://www.kaggle.com/datasets/sabahesaraki/breast-ultrasound-images-dataset
   ![image](https://github.com/javiakbar/PrediCancer_Capstone/assets/139321188/56f77c2e-a2b8-4c64-a538-7360ea17b09d)
   
 - Training Data
-  
+
+  ![image](https://github.com/javiakbar/PrediCancer_Capstone/assets/139321188/2db7874d-4780-46b0-a973-b2a8fda3bdb3)
   ![image](https://github.com/javiakbar/PrediCancer_Capstone/assets/139321188/39fabc9d-1255-40a1-b22d-002e5f7e03a1)
+  ![image](https://github.com/javiakbar/PrediCancer_Capstone/assets/139321188/5f8d53ba-e8c8-4778-beb7-2d25c7a4af3a)
+  ![image](https://github.com/javiakbar/PrediCancer_Capstone/assets/139321188/fdab8c1f-44fa-49e6-8ffd-cdf66b897732)
   
 - Predict List
   
